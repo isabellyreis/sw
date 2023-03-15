@@ -1,0 +1,15 @@
+D:\ExercicioAlunos\bin\Debug\net7.0\ExercicioAlunos.exe
+D:\ExercicioAlunos\bin\Debug\net7.0\ExercicioAlunos.deps.json
+D:\ExercicioAlunos\bin\Debug\net7.0\ExercicioAlunos.runtimeconfig.json
+D:\ExercicioAlunos\bin\Debug\net7.0\ExercicioAlunos.dll
+D:\ExercicioAlunos\bin\Debug\net7.0\ExercicioAlunos.pdb
+D:\ExercicioAlunos\obj\Debug\net7.0\ExercicioAlunos.csproj.AssemblyReference.cache
+D:\ExercicioAlunos\obj\Debug\net7.0\ExercicioAlunos.GeneratedMSBuildEditorConfig.editorconfig
+D:\ExercicioAlunos\obj\Debug\net7.0\ExercicioAlunos.AssemblyInfoInputs.cache
+D:\ExercicioAlunos\obj\Debug\net7.0\ExercicioAlunos.AssemblyInfo.cs
+D:\ExercicioAlunos\obj\Debug\net7.0\ExercicioAlunos.csproj.CoreCompileInputs.cache
+D:\ExercicioAlunos\obj\Debug\net7.0\ExercicioAlunos.dll
+D:\ExercicioAlunos\obj\Debug\net7.0\refint\ExercicioAlunos.dll
+D:\ExercicioAlunos\obj\Debug\net7.0\ExercicioAlunos.pdb
+D:\ExercicioAlunos\obj\Debug\net7.0\ExercicioAlunos.genruntimeconfig.cache
+D:\ExercicioAlunos\obj\Debug\net7.0\ref\ExercicioAlunos.dll
